@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/proyecto-todolist/static/css/main.62b90b97.chunk.css",
+    "main.js": "/proyecto-todolist/static/js/main.88c089f1.chunk.js",
+    "main.js.map": "/proyecto-todolist/static/js/main.88c089f1.chunk.js.map",
+    "runtime-main.js": "/proyecto-todolist/static/js/runtime-main.bb8855f5.js",
+    "runtime-main.js.map": "/proyecto-todolist/static/js/runtime-main.bb8855f5.js.map",
+    "static/js/2.892b71e5.chunk.js": "/proyecto-todolist/static/js/2.892b71e5.chunk.js",
+    "static/js/2.892b71e5.chunk.js.map": "/proyecto-todolist/static/js/2.892b71e5.chunk.js.map",
+    "index.html": "/proyecto-todolist/index.html",
+    "static/css/main.62b90b97.chunk.css.map": "/proyecto-todolist/static/css/main.62b90b97.chunk.css.map",
+    "static/js/2.892b71e5.chunk.js.LICENSE.txt": "/proyecto-todolist/static/js/2.892b71e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb8855f5.js",
+    "static/js/2.892b71e5.chunk.js",
+    "static/css/main.62b90b97.chunk.css",
+    "static/js/main.88c089f1.chunk.js"
+  ]
+}
